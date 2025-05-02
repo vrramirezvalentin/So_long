@@ -16,4 +16,4 @@ In So_long, your goal is to navigate the maze, collect all the necessary items, 
 | **S** / ↓   | Move Down       |
 | **A** / ←   | Move Left       |
 | **D** / →   | Move Right      |
-| **ESC** ⎋   | Close Game      |
+| **ESC**     | Close Game      |
